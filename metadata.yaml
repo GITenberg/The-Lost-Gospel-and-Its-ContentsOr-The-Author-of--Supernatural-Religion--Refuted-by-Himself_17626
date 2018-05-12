@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7501'
     url: http://www.gutenberg.org/2009/agents/7501
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17626#The-Lost-Gospel-and-Its-ContentsOr-The-Author-of--Supernatural-Religion--Refuted-by-Himself
 gutenberg_issued: '2006-01-29'
 gutenberg_type: Text
 identifiers:
