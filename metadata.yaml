@@ -1,0 +1,31 @@
+_repo: The-Lost-Gospel-and-Its-ContentsOr-The-Author-of--Supernatural-Religion--Refuted-by-Himself_17626
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sadler, M. F. (Michael Ferrebee)
+    alias: Sadler, Michael Ferrebee
+    birthdate: 1819
+    deathdate: 1895
+    gutenberg_agent_id: '7501'
+    url: http://www.gutenberg.org/2009/agents/7501
+description: ''
+gutenberg_issued: '2006-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Cassels, Walter Richard, 1826-1907. Supernatural religion'
+- !lcsh 'Bible. Gospels -- Criticism, interpretation, etc.'
+- !lcsh 'Supernatural'
+title: 'The Lost Gospel and Its Contents
+
+  Or, The Author of "Supernatural Religion" Refuted by Himself'
+url: http://www.gutenberg.org/ebooks/17626
